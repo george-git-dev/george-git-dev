@@ -1,11 +1,10 @@
 ## :point_right: Olá, meu nome é <strong>George!</strong>
 
-> Futuro desenvolvedor e apaixonado por tecnologia, com formação superior em Administração de Empresas e tecnólogo em Análise e Desenvolvimento de Sistemas em andamento.
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Futuro desenvolvedor e apaixonado por tecnologia, com formação superior em Administração de Empresas e tecnólogo em Análise e Desenvolvimento de Sistemas em andamento.
 </p>
 
 <p align="left">
