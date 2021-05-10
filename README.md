@@ -8,16 +8,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 Cursando: 
+  
+<strong>></strong>PRODUÇÃO WEBSITES EXPERT FRONT-END (100 horas) 03/2021 à 07/2021
+     (Programa viarapida.sp.gov) - Senac Taboão
+
+<strong>></strong>HTML5 e CSS3: módulo 2 de 5 (40 HORAS)
+     (cursoemvideo.com.br) - Gustavo Guanabara
 </p>
 
-<p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
 
 <p align="left">
   <a href="#" alt="E-mail">
@@ -25,22 +24,8 @@
 
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-silva/" /></a>
-
  
-
- 
-
-  
 </p>  
-
-Cursando:
- > PRODUÇÃO WEBSITES EXPERT FRONT-END (100 horas) 03/2021 à 07/2021
-     (Programa viarapida.sp.gov) - Senac Taboão
-
->  HTML5 e CSS3: módulo 2 de 5 (40 HORAS)
-     (cursoemvideo.com.br) - Gustavo Guanabara
-
-
 
 ----
 
@@ -51,6 +36,4 @@ Cursando:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 
----
-
-## ⭐ Informações sobre minha conta GitHub
+----
