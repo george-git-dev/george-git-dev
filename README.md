@@ -1,10 +1,15 @@
-## 💜 Olá, meu nome é <strong>{seu nome}!</strong>
+## 💜 Olá, meu nome é <strong>{George}!</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
+> Futuro desenvolvedor e apaixonado por tecnologia, com formação superior em Administração de Empresas e tecnólogo em Análise e Desenvolvimento de Sistemas em andamento.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+Cursando:
+ > PRODUÇÃO WEBSITES EXPERT FRONT-END (100 horas) 03/2021 à 07/2021
+     (Programa viarapida.sp.gov) - Senac Taboão
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+>  HTML5 e CSS3: módulo 2 de 5 (40 HORAS)
+     (cursoemvideo.com.br) - Gustavo Guanabara
+
+
 
 ----
 
@@ -13,7 +18,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 
 ---
