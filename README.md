@@ -38,5 +38,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 </div>
 
-
-----
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/george-git-dev/count.svg" />
+ </p>
