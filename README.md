@@ -13,7 +13,10 @@
 <strong>></strong>PRODUÇÃO WEBSITES EXPERT FRONT-END (100 horas) 03/2021 à 07/2021
      (Programa viarapida.sp.gov) - Senac Taboão
 
-<strong>></strong>HTML5 e CSS3: módulo 2 de 5 (40 HORAS)
+<strong>></strong>HTML5 e CSS3: módulo 2 de 5 (200 HORAS)
+     (cursoemvideo.com.br) - Gustavo Guanabara
+
+  <strong>></strong>PYTHON 3: módulo 3 de 3 (120 HORAS)
      (cursoemvideo.com.br) - Gustavo Guanabara
 </p>
 
