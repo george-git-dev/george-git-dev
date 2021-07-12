@@ -7,18 +7,6 @@
   Futuro desenvolvedor e apaixonado por tecnologia, com formação superior em Administração de Empresas e tecnólogo em Análise e Desenvolvimento de Sistemas em andamento.
 </p>
 
-<p align="left">
-  🦄 Cursando: 
-  
-<strong>></strong>PRODUÇÃO WEBSITES EXPERT FRONT-END (100 horas) 03/2021 à 07/2021
-     (Programa viarapida.sp.gov) - Senac Taboão
-
-<strong>></strong>HTML5 e CSS3: módulo 2 de 5 (200 HORAS)
-     (cursoemvideo.com.br) - Gustavo Guanabara
-
-  <strong>></strong>PYTHON 3: módulo 3 de 3 (120 HORAS)
-     (cursoemvideo.com.br) - Gustavo Guanabara
-</p>
 
 
 
