@@ -1,27 +1,21 @@
 ## :point_right: Olá, meu nome é <strong>George!</strong>
 
+<br><br>
+<img align="right" src="https://github.com/george-git-dev/george-git-dev/blob/main/computador.png" min-width="400px" max-width="400px" width="400px" alt="Computador">
 
-<img src="https://github.com/george-git-dev/george-git-dev/blob/main/computador.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-<p align="left"> 
-  Futuro desenvolvedor e apaixonado por tecnologia, com formação superior em Administração de Empresas e tecnólogo em Análise e Desenvolvimento de Sistemas em andamento.
-</p>
-
-
+ 
+ <br><br>
+Futuro desenvolvedor e apaixonado por tecnologia, com formação superior em Administração de Empresas e tecnólogo em Análise e Desenvolvimento de Sistemas em andamento.
 
 
-----
 
-## 🚀 Minhas Skills
-
- <div>
-  <a href="https://github.com/george-git-dev">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=george-git-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-git-dev&layout=compact&langs_count=16&theme=dracula"/>
-<div>
 
   
-<h2 align="center">Languages and Tools:</h2>
+
+<br><br><br><br><br>
+
+  
+## Languages and Tools:
 
 <p align="center" style="background-color: white; border-radius: 5px; border: 1px solid; padding: 5px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40">
@@ -34,6 +28,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40">
 </p>
+ <div>
+  <a href="https://github.com/george-git-dev">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=george-git-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-git-dev&layout=compact&langs_count=16&theme=dracula"/>
+<div>
 
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
