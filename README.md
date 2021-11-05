@@ -35,6 +35,6 @@ Futuro desenvolvedor e apaixonado por tecnologia, com formação superior em Adm
 </div>
 
  ## Total de Visitas no perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/george-git-dev/count.svg" />
+ <p align="center">
+ <img alingn="center" https://github.com/george-git-dev/george-git-dev/blob/main/Nerd.gif />
  </p>
