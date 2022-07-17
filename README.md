@@ -5,7 +5,7 @@
 
  
  <br><br>
-Developer apaixonado por tecnologia, com formação superior em Administração de Empresas e tecnólogo em Análise e Desenvolvimento de Sistemas.
+Desenvolvedor apaixonado por tecnologia, com formação superior em Administração de Empresas e tecnólogo em Análise e Desenvolvimento de Sistemas.
 
 
 
