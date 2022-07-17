@@ -5,7 +5,7 @@
 
  
  <br><br>
-Futuro desenvolvedor e apaixonado por tecnologia, com formação superior em Administração de Empresas e tecnólogo em Análise e Desenvolvimento de Sistemas em andamento.
+Developer apaixonado por tecnologia, com formação superior em Administração de Empresas e tecnólogo em Análise e Desenvolvimento de Sistemas.
 
 
 
