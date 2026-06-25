@@ -36,5 +36,5 @@ Desenvolvedor apaixonado por tecnologia, com formação superior em Administraç
 
  ## Total de Visitas no perfil :detective: <br>
  <p align="center">
-   <img alingn="center" src="https://profile-counter.glitch.me/george-git-dev/count.svg" />
- </p>
+  <img src="https://komarev.com/ghpvc/?username=george-git-dev&color=blue" />
+</p>
