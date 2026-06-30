@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/george-git-dev/george-git-dev/blob/main/computador.png" min-width="400px" max-width="400px" width="400px" alt="Computador">
 
 <br><br>
-Pleno Software Engineer com experiência em desenvolvimento backend utilizando Java e Spring Boot, atuando em arquitetura de microsserviços e sistemas distribuídos em ambiente AWS.
+Software Engineer com experiência em desenvolvimento backend utilizando Java e Spring Boot, atuando em arquitetura de microsserviços e sistemas distribuídos em ambiente AWS.
 
 <br>
 
